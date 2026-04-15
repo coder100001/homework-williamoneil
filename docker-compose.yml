@@ -1,0 +1,12 @@
+services:
+  poc-app:
+    build: .
+    container_name: realtime-trade-engine
+    volumes:
+      - ./data:/app/data
+    environment:
+      - LOG_LEVEL=INFO
+      - WORKERS=10
+      - BATCH_SIZE=100
+      - QUEUE_SIZE=1000
+    command: python src/main.py
