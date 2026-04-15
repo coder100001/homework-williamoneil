@@ -1,0 +1,802 @@
+[
+  {
+    "trade_id": "T00000001",
+    "symbol": "MOCKB",
+    "price": 471.5,
+    "quantity": 6053,
+    "timestamp": "2026-04-15T15:38:32.947814",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000002",
+    "symbol": "SYNTH3",
+    "price": 171.96,
+    "quantity": 3840,
+    "timestamp": "2026-04-15T15:38:32.947832",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000003",
+    "symbol": "TESTX",
+    "price": 23.98,
+    "quantity": 2488,
+    "timestamp": "2026-04-15T15:38:32.947839",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000004",
+    "symbol": "SYNTH2",
+    "price": 485.25,
+    "quantity": 2826,
+    "timestamp": "2026-04-15T15:38:32.947845",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000005",
+    "symbol": "TESTX",
+    "price": 167.83,
+    "quantity": 5027,
+    "timestamp": "2026-04-15T15:38:32.947851",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000006",
+    "symbol": "TESTX",
+    "price": 313.43,
+    "quantity": 3345,
+    "timestamp": "2026-04-15T15:38:32.947856",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000007",
+    "symbol": "SYNTH1",
+    "price": 143.85,
+    "quantity": 2999,
+    "timestamp": "2026-04-15T15:38:32.947862",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000008",
+    "symbol": "MOCKA",
+    "price": 145.52,
+    "quantity": 6435,
+    "timestamp": "2026-04-15T15:38:32.947868",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000009",
+    "symbol": "SYNTH1",
+    "price": 361.29,
+    "quantity": 359,
+    "timestamp": "2026-04-15T15:38:32.947874",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000010",
+    "symbol": "MOCKB",
+    "price": 480.78,
+    "quantity": 5537,
+    "timestamp": "2026-04-15T15:38:32.947880",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000011",
+    "symbol": "SYNTH2",
+    "price": 415.85,
+    "quantity": 1369,
+    "timestamp": "2026-04-15T15:38:32.947885",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000012",
+    "symbol": "MOCKB",
+    "price": 236.74,
+    "quantity": 8937,
+    "timestamp": "2026-04-15T15:38:32.947891",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000013",
+    "symbol": "SYNTH1",
+    "price": 377.02,
+    "quantity": 2169,
+    "timestamp": "2026-04-15T15:38:32.947897",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000014",
+    "symbol": "SYNTH2",
+    "price": 453.96,
+    "quantity": 3332,
+    "timestamp": "2026-04-15T15:38:32.947903",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000015",
+    "symbol": "SYNTH3",
+    "price": 440.39,
+    "quantity": 6478,
+    "timestamp": "2026-04-15T15:38:32.947908",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000016",
+    "symbol": "MOCKA",
+    "price": 403.48,
+    "quantity": 7014,
+    "timestamp": "2026-04-15T15:38:32.947914",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000017",
+    "symbol": "SYNTH3",
+    "price": 117.53,
+    "quantity": 3235,
+    "timestamp": "2026-04-15T15:38:32.947919",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000018",
+    "symbol": "MOCKA",
+    "price": 279.55,
+    "quantity": 2572,
+    "timestamp": "2026-04-15T15:38:32.947939",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000019",
+    "symbol": "SYNTH1",
+    "price": 325.58,
+    "quantity": 5513,
+    "timestamp": "2026-04-15T15:38:32.947945",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000020",
+    "symbol": "MOCKA",
+    "price": 80.61,
+    "quantity": 1924,
+    "timestamp": "2026-04-15T15:38:32.947951",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000021",
+    "symbol": "SYNTH3",
+    "price": 459.8,
+    "quantity": 8752,
+    "timestamp": "2026-04-15T15:38:32.947957",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000022",
+    "symbol": "MOCKA",
+    "price": 135.96,
+    "quantity": 243,
+    "timestamp": "2026-04-15T15:38:32.947963",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000023",
+    "symbol": "SYNTH3",
+    "price": 484.08,
+    "quantity": 8880,
+    "timestamp": "2026-04-15T15:38:32.947969",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000024",
+    "symbol": "SYNTH3",
+    "price": 493.18,
+    "quantity": 3074,
+    "timestamp": "2026-04-15T15:38:32.947975",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000025",
+    "symbol": "SYNTH1",
+    "price": 396.86,
+    "quantity": 4901,
+    "timestamp": "2026-04-15T15:38:32.947984",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000026",
+    "symbol": "SYNTH2",
+    "price": 160.66,
+    "quantity": 3890,
+    "timestamp": "2026-04-15T15:38:32.947990",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000027",
+    "symbol": "SYNTH2",
+    "price": 411.68,
+    "quantity": 4149,
+    "timestamp": "2026-04-15T15:38:32.947996",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000028",
+    "symbol": "SYNTH2",
+    "price": 132.54,
+    "quantity": 2311,
+    "timestamp": "2026-04-15T15:38:32.948002",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000029",
+    "symbol": "SYNTH3",
+    "price": 387.23,
+    "quantity": 4331,
+    "timestamp": "2026-04-15T15:38:32.948008",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000030",
+    "symbol": "TESTX",
+    "price": 254.0,
+    "quantity": 7452,
+    "timestamp": "2026-04-15T15:38:32.948015",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000031",
+    "symbol": "MOCKA",
+    "price": 110.81,
+    "quantity": 9062,
+    "timestamp": "2026-04-15T15:38:32.948024",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000032",
+    "symbol": "MOCKB",
+    "price": 79.78,
+    "quantity": 8685,
+    "timestamp": "2026-04-15T15:38:32.948030",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000033",
+    "symbol": "MOCKA",
+    "price": 295.11,
+    "quantity": 1043,
+    "timestamp": "2026-04-15T15:38:32.948036",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000034",
+    "symbol": "MOCKB",
+    "price": 423.96,
+    "quantity": 6245,
+    "timestamp": "2026-04-15T15:38:32.948042",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000035",
+    "symbol": "MOCKB",
+    "price": 265.79,
+    "quantity": 3061,
+    "timestamp": "2026-04-15T15:38:32.948048",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000036",
+    "symbol": "MOCKB",
+    "price": 487.09,
+    "quantity": 7191,
+    "timestamp": "2026-04-15T15:38:32.948054",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000037",
+    "symbol": "SYNTH3",
+    "price": 176.92,
+    "quantity": 5394,
+    "timestamp": "2026-04-15T15:38:32.948061",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000038",
+    "symbol": "SYNTH2",
+    "price": 376.73,
+    "quantity": 900,
+    "timestamp": "2026-04-15T15:38:32.948069",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000039",
+    "symbol": "TESTX",
+    "price": 126.53,
+    "quantity": 6289,
+    "timestamp": "2026-04-15T15:38:32.948075",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000040",
+    "symbol": "SYNTH1",
+    "price": 399.64,
+    "quantity": 3936,
+    "timestamp": "2026-04-15T15:38:32.948084",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000041",
+    "symbol": "SYNTH1",
+    "price": 68.91,
+    "quantity": 9156,
+    "timestamp": "2026-04-15T15:38:32.948090",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000042",
+    "symbol": "SYNTH2",
+    "price": 157.23,
+    "quantity": 2597,
+    "timestamp": "2026-04-15T15:38:32.948096",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000043",
+    "symbol": "MOCKB",
+    "price": 128.01,
+    "quantity": 8594,
+    "timestamp": "2026-04-15T15:38:32.948102",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000044",
+    "symbol": "TESTX",
+    "price": 314.58,
+    "quantity": 8145,
+    "timestamp": "2026-04-15T15:38:32.948108",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000045",
+    "symbol": "SYNTH3",
+    "price": 197.01,
+    "quantity": 3776,
+    "timestamp": "2026-04-15T15:38:32.948114",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000046",
+    "symbol": "SYNTH1",
+    "price": 387.19,
+    "quantity": 6312,
+    "timestamp": "2026-04-15T15:38:32.948120",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000047",
+    "symbol": "SYNTH2",
+    "price": 128.92,
+    "quantity": 1074,
+    "timestamp": "2026-04-15T15:38:32.948126",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000048",
+    "symbol": "MOCKA",
+    "price": 257.14,
+    "quantity": 4120,
+    "timestamp": "2026-04-15T15:38:32.948132",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000049",
+    "symbol": "SYNTH2",
+    "price": 180.64,
+    "quantity": 2765,
+    "timestamp": "2026-04-15T15:38:32.948137",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000050",
+    "symbol": "MOCKA",
+    "price": 373.32,
+    "quantity": 6391,
+    "timestamp": "2026-04-15T15:38:32.948143",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000051",
+    "symbol": "TESTX",
+    "price": 308.59,
+    "quantity": 1853,
+    "timestamp": "2026-04-15T15:38:32.948151",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000052",
+    "symbol": "SYNTH2",
+    "price": 266.43,
+    "quantity": 6907,
+    "timestamp": "2026-04-15T15:38:32.948157",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000053",
+    "symbol": "TESTX",
+    "price": 349.57,
+    "quantity": 6094,
+    "timestamp": "2026-04-15T15:38:32.948162",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000054",
+    "symbol": "MOCKA",
+    "price": 323.88,
+    "quantity": 1053,
+    "timestamp": "2026-04-15T15:38:32.948168",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000055",
+    "symbol": "MOCKA",
+    "price": 263.02,
+    "quantity": 1909,
+    "timestamp": "2026-04-15T15:38:32.948174",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000056",
+    "symbol": "MOCKA",
+    "price": 164.11,
+    "quantity": 2018,
+    "timestamp": "2026-04-15T15:38:32.948180",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000057",
+    "symbol": "SYNTH1",
+    "price": 162.02,
+    "quantity": 3843,
+    "timestamp": "2026-04-15T15:38:32.948186",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000058",
+    "symbol": "MOCKA",
+    "price": 430.35,
+    "quantity": 8306,
+    "timestamp": "2026-04-15T15:38:32.948192",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000059",
+    "symbol": "SYNTH2",
+    "price": 42.25,
+    "quantity": 3854,
+    "timestamp": "2026-04-15T15:38:32.948198",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000060",
+    "symbol": "SYNTH3",
+    "price": 212.6,
+    "quantity": 8881,
+    "timestamp": "2026-04-15T15:38:32.948204",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000061",
+    "symbol": "SYNTH1",
+    "price": 47.78,
+    "quantity": 5013,
+    "timestamp": "2026-04-15T15:38:32.948210",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000062",
+    "symbol": "SYNTH2",
+    "price": 112.91,
+    "quantity": 4335,
+    "timestamp": "2026-04-15T15:38:32.948216",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000063",
+    "symbol": "SYNTH1",
+    "price": 37.74,
+    "quantity": 5222,
+    "timestamp": "2026-04-15T15:38:32.948221",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000064",
+    "symbol": "TESTX",
+    "price": 384.17,
+    "quantity": 7199,
+    "timestamp": "2026-04-15T15:38:32.948230",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000065",
+    "symbol": "SYNTH3",
+    "price": 51.84,
+    "quantity": 131,
+    "timestamp": "2026-04-15T15:38:32.948238",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000066",
+    "symbol": "TESTX",
+    "price": 241.69,
+    "quantity": 7672,
+    "timestamp": "2026-04-15T15:38:32.948244",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000067",
+    "symbol": "SYNTH1",
+    "price": 57.06,
+    "quantity": 2390,
+    "timestamp": "2026-04-15T15:38:32.948250",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000068",
+    "symbol": "SYNTH1",
+    "price": 379.5,
+    "quantity": 7972,
+    "timestamp": "2026-04-15T15:38:32.948256",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000069",
+    "symbol": "SYNTH2",
+    "price": 489.96,
+    "quantity": 6156,
+    "timestamp": "2026-04-15T15:38:32.948262",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000070",
+    "symbol": "SYNTH1",
+    "price": 457.9,
+    "quantity": 3022,
+    "timestamp": "2026-04-15T15:38:32.948267",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000071",
+    "symbol": "SYNTH3",
+    "price": 306.3,
+    "quantity": 4532,
+    "timestamp": "2026-04-15T15:38:32.948273",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000072",
+    "symbol": "TESTX",
+    "price": 370.63,
+    "quantity": 3018,
+    "timestamp": "2026-04-15T15:38:32.948279",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000073",
+    "symbol": "MOCKB",
+    "price": 99.18,
+    "quantity": 8501,
+    "timestamp": "2026-04-15T15:38:32.948286",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000074",
+    "symbol": "SYNTH2",
+    "price": 18.81,
+    "quantity": 4344,
+    "timestamp": "2026-04-15T15:38:32.948292",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000075",
+    "symbol": "SYNTH3",
+    "price": 143.62,
+    "quantity": 4680,
+    "timestamp": "2026-04-15T15:38:32.948299",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000076",
+    "symbol": "MOCKA",
+    "price": 447.24,
+    "quantity": 5392,
+    "timestamp": "2026-04-15T15:38:32.948305",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000077",
+    "symbol": "SYNTH3",
+    "price": 383.1,
+    "quantity": 8896,
+    "timestamp": "2026-04-15T15:38:32.948314",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000078",
+    "symbol": "SYNTH3",
+    "price": 277.54,
+    "quantity": 4693,
+    "timestamp": "2026-04-15T15:38:32.948320",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000079",
+    "symbol": "SYNTH1",
+    "price": 444.58,
+    "quantity": 5201,
+    "timestamp": "2026-04-15T15:38:32.948327",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000080",
+    "symbol": "SYNTH2",
+    "price": 220.38,
+    "quantity": 892,
+    "timestamp": "2026-04-15T15:38:32.948332",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000081",
+    "symbol": "MOCKA",
+    "price": 466.82,
+    "quantity": 4065,
+    "timestamp": "2026-04-15T15:38:32.948339",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000082",
+    "symbol": "MOCKB",
+    "price": 420.53,
+    "quantity": 854,
+    "timestamp": "2026-04-15T15:38:32.948344",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000083",
+    "symbol": "SYNTH3",
+    "price": 186.92,
+    "quantity": 8641,
+    "timestamp": "2026-04-15T15:38:32.948351",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000084",
+    "symbol": "SYNTH3",
+    "price": 12.79,
+    "quantity": 1161,
+    "timestamp": "2026-04-15T15:38:32.948357",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000085",
+    "symbol": "SYNTH3",
+    "price": 457.69,
+    "quantity": 8152,
+    "timestamp": "2026-04-15T15:38:32.948363",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000086",
+    "symbol": "MOCKB",
+    "price": 172.59,
+    "quantity": 9161,
+    "timestamp": "2026-04-15T15:38:32.948368",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000087",
+    "symbol": "TESTX",
+    "price": 118.04,
+    "quantity": 920,
+    "timestamp": "2026-04-15T15:38:32.948374",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000088",
+    "symbol": "TESTX",
+    "price": 461.54,
+    "quantity": 1093,
+    "timestamp": "2026-04-15T15:38:32.948380",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000089",
+    "symbol": "SYNTH1",
+    "price": 429.86,
+    "quantity": 929,
+    "timestamp": "2026-04-15T15:38:32.948386",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000090",
+    "symbol": "TESTX",
+    "price": 122.3,
+    "quantity": 6448,
+    "timestamp": "2026-04-15T15:38:32.948396",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000091",
+    "symbol": "SYNTH3",
+    "price": 266.67,
+    "quantity": 5592,
+    "timestamp": "2026-04-15T15:38:32.948402",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000092",
+    "symbol": "SYNTH2",
+    "price": 404.19,
+    "quantity": 2077,
+    "timestamp": "2026-04-15T15:38:32.948408",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000093",
+    "symbol": "SYNTH2",
+    "price": 76.04,
+    "quantity": 3446,
+    "timestamp": "2026-04-15T15:38:32.948415",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000094",
+    "symbol": "SYNTH1",
+    "price": 102.7,
+    "quantity": 9217,
+    "timestamp": "2026-04-15T15:38:32.948421",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000095",
+    "symbol": "MOCKA",
+    "price": 13.77,
+    "quantity": 6588,
+    "timestamp": "2026-04-15T15:38:32.948429",
+    "exchange": "EXCH_C"
+  },
+  {
+    "trade_id": "T00000096",
+    "symbol": "TESTX",
+    "price": 421.75,
+    "quantity": 4312,
+    "timestamp": "2026-04-15T15:38:32.948435",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000097",
+    "symbol": "TESTX",
+    "price": 96.09,
+    "quantity": 6597,
+    "timestamp": "2026-04-15T15:38:32.948442",
+    "exchange": "EXCH_A"
+  },
+  {
+    "trade_id": "T00000098",
+    "symbol": "SYNTH1",
+    "price": 485.03,
+    "quantity": 3415,
+    "timestamp": "2026-04-15T15:38:32.948448",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000099",
+    "symbol": "SYNTH2",
+    "price": 146.54,
+    "quantity": 8920,
+    "timestamp": "2026-04-15T15:38:32.948454",
+    "exchange": "EXCH_B"
+  },
+  {
+    "trade_id": "T00000100",
+    "symbol": "SYNTH3",
+    "price": 23.93,
+    "quantity": 2868,
+    "timestamp": "2026-04-15T15:38:32.948460",
+    "exchange": "EXCH_A"
+  }
+]
